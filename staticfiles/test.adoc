@@ -1,0 +1,2 @@
+CECI EST UN BEAU TEST!!!
+image:/images/icons/home.png[]

@@ -1,0 +1,20 @@
+---
+layout: page
+title: About me
+permalink: /about/
+author: Hu Nose
+lang: en
+icons:
+---
+
+TIP: Tip.
+
+IMPORTANT: Important.
+
+WARNING: Warning.
+
+CAUTION: Caution.
+
+.Optional Title
+NOTE: This is an example
+      single-paragraph note.
