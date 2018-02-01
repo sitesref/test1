@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: layout2
 title: Toto page
 permalink: /toto/
 author: Nash
 lang: fr
 icons:
+template_number: 18
+title: mon beau titre
 ---
 
 HELLO THIS IS TOTO PAGE!
