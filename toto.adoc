@@ -1,0 +1,10 @@
+---
+layout: page
+title: Toto page
+permalink: /toto/
+author: Nash
+lang: fr
+icons:
+---
+
+HELLO THIS IS TOTO PAGE!
