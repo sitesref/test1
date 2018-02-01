@@ -1,12 +1,15 @@
 ---
 layout: layout2
-title: Toto page
+title: 'Toto page'
 permalink: /toto/
 author: Nash
 lang: fr
 icons:
 template_number: 18
-title: mon beau titre
+title2: mon beau titre
+var1: 42
 ---
 
-HELLO THIS IS TOTO PAGE!
+HELLO THIS IS *TOTO* PAGE!
+
+{% page.title2 %}
