@@ -7,10 +7,8 @@ lang: fr
 template_number: 18
 var1: 42
 ---
-
+:author: Nicolas
 :title2: ma variable de page
 :github_username: {site.github_username}
 
-HELLO THIS IS *TOTO* PAGE!
-
-{title2}
+== {{title}}
