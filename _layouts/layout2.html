@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }} - {{ page.var1 }} - {{ site.email }}</h1>
+<h1>{{ page.title }} - {{ page.var1 }} - {{ page.title2 }} - {{ site.email }}</h1>
 <strong>mon layout {{ page.template_number }}</strong>
 {{ content }}
+
+{% if customer.name == 'kevin' %}
+  Hey Kevin!
+{% elsif customer.name == 'anonymous' %}
+  Hey Anonymous!
+{% else %}
+  Hi Stranger!
+{% endif %}

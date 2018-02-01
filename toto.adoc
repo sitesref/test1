@@ -4,12 +4,13 @@ title: 'Toto page'
 permalink: /toto/
 author: Nash
 lang: fr
-icons:
 template_number: 18
-title2: mon beau titre
 var1: 42
 ---
 
+:title2: ma variable de page
+:github_username: {site.github_username}
+
 HELLO THIS IS *TOTO* PAGE!
 
-{% page.title2 %}
+{title2}
