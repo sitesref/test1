@@ -20,3 +20,4 @@ NOTE: This is an example
       single-paragraph note.
 
 changement écrasé
+changement discutable
