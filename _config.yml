@@ -39,6 +39,7 @@ asciidoctor:
     - idprefix=
     - idseparator=-
     - linkattrs
+    - allow-uri-read
     - imagesdir=/images
     - iconsdir=/images/icons
 

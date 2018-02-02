@@ -6,9 +6,12 @@ author: Nash
 lang: fr
 template_number: 18
 var1: 42
----
-:author: Nicolas
-:title2: ma variable de page
-:github_username: {site.github_username}
 
-== {{title}}
+---
+:title2: ma variable de page
+:icons: fontawesome
+
+[[goals]]
+[role="incremental"]
+* Goal 1 icon:twitter
+* Goal 2

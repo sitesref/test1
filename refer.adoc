@@ -5,6 +5,7 @@ permalink: /refer/
 author: Nash
 lang: fr
 ---
+
 = AsciiDoc Syntax Quick Reference
 Dan Allen; Sarah White
 v1.0.3, 2014-12-28
@@ -278,7 +279,4 @@ See these sections in the Asciidoctor User Manual for more information and examp
 IMPORTANT: A header is optional.
 When you do add a header to your document, the only required element is a title.
 
-CAUTION: The header may not contain blank lines and must be offset from the content by at least one blank line.
-
-.Title only
-----//toc::[]
+CAUTION: The heade
